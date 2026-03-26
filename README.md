@@ -3,7 +3,7 @@
 ## 1. Integrantes
 - Óscar Andrés Madrid Vergara
 - Sharon Vanessa Trujillo
-- Diana Isabel
+- Diana Isabela Gómez Vera
 
 Estudiantes del curso de Algoritmis y programación
 
