@@ -27,6 +27,12 @@ Determinación
 ** Diana Isabela Gómez Vera**
 Programa: Ingeniería industrial
 Fortalezas:
+Responsabilidad
+Disciplina
+Creatividad 
+Proactividad
+Empatía
+Adaptabilidad
 
 ## Licencia 
 Este trabajo está licenciado bajo Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
