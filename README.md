@@ -18,7 +18,11 @@ Fortalezas:
 Programa: Ingeniería industrial
 Fortalezas:
 
+** Diana Isabela Gómez Vera**
+Programa: Ingeniería industrial
+Fortalezas:
+
 ## Licencia 
 Este trabajo está licenciado bajo Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-![IMAGEN ALUSIVA]()![)
+![IMAGEN ALUSIVA]()
