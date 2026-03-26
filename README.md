@@ -5,7 +5,7 @@
 - Sharon Vanessa Trujillo
 - Diana Isabela Gómez Vera
 
-Estudiantes del curso de Algoritmis y programación
+Estudiantes del curso de Algoritmia y programación
 
 ---
 ## 2. Vínculos académicos
