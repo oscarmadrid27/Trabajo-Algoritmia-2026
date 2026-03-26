@@ -16,7 +16,13 @@ Fortalezas:
 
 **Sharon Vanessa Trujillo**
 Programa: Ingeniería industrial
-Fortalezas:
+Fortalezas: 
+Resilencia 
+Autoconfianza 
+Empatía 
+Versatilidad 
+Liderazgo 
+Determinación
 
 ** Diana Isabela Gómez Vera**
 Programa: Ingeniería industrial
